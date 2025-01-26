@@ -1,2 +1,8 @@
 npm install express
-node --watch index.js OR npx nodemon
+
+
+node --watch index.js
+
+OR
+
+npx nodemon
